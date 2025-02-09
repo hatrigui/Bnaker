@@ -56,9 +56,10 @@
 
 📌 *More details will be provided along with visualizations from Elasticsearch and Kibana.*
 
-![Distribution of Predictions (0 vs 1)](readme_images/téléchargement.png)
-![Loan Intent vs Prediction Count](readme_images/téléchargement(1).png)
-![Average Loan Amount by Prediction](readme_images/téléchargement(2).png)
-![Home Ownership Types in Positive Predictions](readme_images/téléchargement(3).png)
-![Age Groups vs Prediction](readme_images/téléchargement(4).png)
-![Credit Score vs Prediction](readme_images/téléchargement(5).png)
+![Prediction Distribution](readme_images/prediction_distribution.png)
+![Loan Intent vs Prediction Count](readme_images/loan_intent_distribution.png)
+![Average Loan Amount by Prediction](readme_images/avg_loan_amount.png)
+![Home Ownership Types in Positive Predictions](readme_images/home_ownership.png)
+![Age Groups vs Prediction](readme_images/age_vs_prediction.png)
+![Credit Score vs Prediction](readme_images/credit_score.png)
+
