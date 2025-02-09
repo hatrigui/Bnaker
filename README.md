@@ -54,4 +54,11 @@
 - **Most common loan intents**: EDUCATION, VENTURE.  
 - **Correlations**: Between age, home ownership, and loan status.  
 
+📌 *More details will be provided along with visualizations from Elasticsearch and Kibana.*
 
+![Distribution of Predictions (0 vs 1)](readme images/téléchargement.png)
+![Loan Intent vs Prediction Count](readme images/téléchargement(1).png)
+![Average Loan Amount by Prediction](readme images/téléchargement(2).png)
+![Home Ownership Types in Positive Predictions](readme images/téléchargement(3).png)
+![Age Groups vs Prediction](readme images/téléchargement(4).png)
+![Credit Score vs Prediction](readme images/téléchargement(5).png)
